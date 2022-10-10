@@ -7,9 +7,12 @@ macOS menu app that retrieves and displays Dexcom blood glucose data in the macO
 ### Features
 
 - Ability to enable or disable alerts
-  ![dropdown](images/dropdown.png)
+
+  <img src="images/dropdown.png" alt="dropdown" width="400"/>
+
 - Ability to adjust threshold values for alerts and alert timeouts
-  <img src="images/change_threshold.png" alt="dropdown" width="400"/>
+
+  <img src="images/change_threshold.png" alt="change threshold" width="400"/>
 
 ## Installation
 
